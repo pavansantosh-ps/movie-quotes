@@ -24,14 +24,14 @@ function App() {
     if(showLoading){
       return(
         <div>
-          Loading ....
+          Getting Movie Quote ....
         </div>
       )
     }else{
       return(
         <div>
           <div className='inline-flex items-start'>
-          <img src="/images/quote.svg" alt="" />
+          <img src="/movie-quotes/images/quote.svg" alt="" />
           <p className='text-3xl max-w-2xl pb-5 pt-5'>{movieData.quote}</p>
           </div>
           <p className='pb-5'>Role: {movieData.role} | Show: {movieData.show}</p>
@@ -65,7 +65,7 @@ function App() {
             </button>
           </div>
           <div>
-            <img src="/images/Vector.svg"  alt="" srcset="" />
+            <img src="/movie-quotes/images/Vector.svg"  alt="" srcset="" />
           </div>
       </div>
     </>
