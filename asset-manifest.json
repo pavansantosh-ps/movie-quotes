@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/movie-quotes/static/css/main.15756952.css",
-    "main.js": "/movie-quotes/static/js/main.d6a2a1fd.js",
+    "main.js": "/movie-quotes/static/js/main.46422b30.js",
     "static/js/787.28cb0dcd.chunk.js": "/movie-quotes/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/movie-quotes/index.html",
     "main.15756952.css.map": "/movie-quotes/static/css/main.15756952.css.map",
-    "main.d6a2a1fd.js.map": "/movie-quotes/static/js/main.d6a2a1fd.js.map",
+    "main.46422b30.js.map": "/movie-quotes/static/js/main.46422b30.js.map",
     "787.28cb0dcd.chunk.js.map": "/movie-quotes/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15756952.css",
-    "static/js/main.d6a2a1fd.js"
+    "static/js/main.46422b30.js"
   ]
 }
